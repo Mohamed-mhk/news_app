@@ -24,6 +24,7 @@ class _SelectedCategoryNewsState extends State<SelectedCategoryNews> {
     setState(() {
       isLoadin = false;
     });
+    
   }
 
   @override
